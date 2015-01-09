@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. PrintNumbers", "PrintNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PrintNameOnSepLines", "PrintNameOnSepLines\03. PrintNameOnSepLines.csproj", "{6866277E-E8DE-4A9E-9F82-849E990FB5C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SquareRoot", "SquareRoot\05. SquareRoot.csproj", "{AC81726E-B660-4BF8-A1F4-B0C53A2C4F9A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SimpleSequence", "SimpleSequence\06. SimpleSequence.csproj", "{D7BE1B1E-69FD-466D-BA70-61D8EC573E1F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. ReformatCSharpCode", "ReformatCSharpCode\07. ReformatCSharpCode.csproj", "{F4404952-9CD0-43DD-8494-4BD10B25F706}"
@@ -41,10 +39,6 @@ Global
 		{6866277E-E8DE-4A9E-9F82-849E990FB5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6866277E-E8DE-4A9E-9F82-849E990FB5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6866277E-E8DE-4A9E-9F82-849E990FB5C5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC81726E-B660-4BF8-A1F4-B0C53A2C4F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC81726E-B660-4BF8-A1F4-B0C53A2C4F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC81726E-B660-4BF8-A1F4-B0C53A2C4F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC81726E-B660-4BF8-A1F4-B0C53A2C4F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D7BE1B1E-69FD-466D-BA70-61D8EC573E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D7BE1B1E-69FD-466D-BA70-61D8EC573E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7BE1B1E-69FD-466D-BA70-61D8EC573E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
