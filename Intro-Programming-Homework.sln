@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SimpleSqrt", "SimpleSqr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. AgeInTenYears", "AgeInTenYears\09. AgeInTenYears.csproj", "{F847F32A-4853-45CB-8ACB-61A677810B8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSequence1000", "SimpleSequence1000\SimpleSequence1000.csproj", "{33D72A5B-1B87-4968-B240-7E670F5555F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SimpleSequence1000", "SimpleSequence1000\10. SimpleSequence1000.csproj", "{33D72A5B-1B87-4968-B240-7E670F5555F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
