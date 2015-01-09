@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. CurrentDateTime", "Curr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SimpleSqrt", "SimpleSqrt\05. SimpleSqrt.csproj", "{7A4E062E-F573-47AE-BF55-2472E9C86B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeInTenYears", "AgeInTenYears\AgeInTenYears.csproj", "{F847F32A-4853-45CB-8ACB-61A677810B8C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. AgeInTenYears", "AgeInTenYears\09. AgeInTenYears.csproj", "{F847F32A-4853-45CB-8ACB-61A677810B8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
