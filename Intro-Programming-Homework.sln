@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. CurrentDateTime", "Curr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SimpleSqrt", "SimpleSqrt\05. SimpleSqrt.csproj", "{7A4E062E-F573-47AE-BF55-2472E9C86B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeInTenYears", "AgeInTenYears\AgeInTenYears.csproj", "{F847F32A-4853-45CB-8ACB-61A677810B8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{7A4E062E-F573-47AE-BF55-2472E9C86B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A4E062E-F573-47AE-BF55-2472E9C86B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A4E062E-F573-47AE-BF55-2472E9C86B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F847F32A-4853-45CB-8ACB-61A677810B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F847F32A-4853-45CB-8ACB-61A677810B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F847F32A-4853-45CB-8ACB-61A677810B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F847F32A-4853-45CB-8ACB-61A677810B8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
