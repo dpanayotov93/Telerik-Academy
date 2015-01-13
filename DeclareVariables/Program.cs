@@ -12,7 +12,7 @@ namespace DeclareVariables
             ushort vUshort = 52130;
             int VInt = 4825932;
 
-            Console.WriteLine("{0}, {1}, {2}, {3}, {4}", vByte, vSbyte, vShort, vUshort, VInt);
+            Console.WriteLine("{0}, {1}, {2}, {3}, {4}", vByte, vSbyte, vShort, vUshort, VInt); 
         }
     }
 }
