@@ -23,8 +23,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. AgeInTenYears", "AgeInT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SimpleSequence1000", "SimpleSequence1000\10. SimpleSequence1000.csproj", "{33D72A5B-1B87-4968-B240-7E670F5555F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "130115_Class_Pract", "130115_Class_Pract\130115_Class_Pract.csproj", "{21CE8A15-5D2F-44BF-B6C9-572CBE60B7EB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,10 +69,6 @@ Global
 		{33D72A5B-1B87-4968-B240-7E670F5555F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33D72A5B-1B87-4968-B240-7E670F5555F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33D72A5B-1B87-4968-B240-7E670F5555F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21CE8A15-5D2F-44BF-B6C9-572CBE60B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21CE8A15-5D2F-44BF-B6C9-572CBE60B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21CE8A15-5D2F-44BF-B6C9-572CBE60B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21CE8A15-5D2F-44BF-B6C9-572CBE60B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
