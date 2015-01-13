@@ -2,7 +2,7 @@
 
 namespace DeclareVariables
 {
-    class Program
+    class DeclareVariables
     {
         static void Main()
         {
