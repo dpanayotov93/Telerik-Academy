@@ -41,7 +41,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. StringsАndObjects", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. QuotesInStrings", "QuotesInStrings\07. QuotesInStrings.csproj", "{309238E7-8E14-4299-81DE-3BEFA82A9CAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsoscelesTriangle", "IsoscelesTriangle\IsoscelesTriangle.csproj", "{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. IsoscelesTriangle", "IsoscelesTriangle\08. IsoscelesTriangle.csproj", "{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeVariableValues", "ExchangeVariableValues\ExchangeVariableValues.csproj", "{0BAFB2FC-8B52-4228-91F5-265A181EDDD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,10 @@ Global
 		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAFB2FC-8B52-4228-91F5-265A181EDDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAFB2FC-8B52-4228-91F5-265A181EDDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAFB2FC-8B52-4228-91F5-265A181EDDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAFB2FC-8B52-4228-91F5-265A181EDDD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,5 +150,6 @@ Global
 		{A302C85A-0A69-472D-8818-D52995D18CB4} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{309238E7-8E14-4299-81DE-3BEFA82A9CAD} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
+		{0BAFB2FC-8B52-4228-91F5-265A181EDDD5} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 	EndGlobalSection
 EndGlobal
