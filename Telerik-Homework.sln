@@ -39,7 +39,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BooleanVariable", "Bool
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. StringsАndObjects", "StringsАndObjects\06. StringsАndObjects.csproj", "{A302C85A-0A69-472D-8818-D52995D18CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesInStrings", "QuotesInStrings\QuotesInStrings.csproj", "{309238E7-8E14-4299-81DE-3BEFA82A9CAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. QuotesInStrings", "QuotesInStrings\07. QuotesInStrings.csproj", "{309238E7-8E14-4299-81DE-3BEFA82A9CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsoscelesTriangle", "IsoscelesTriangle\IsoscelesTriangle.csproj", "{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -115,6 +117,10 @@ Global
 		{309238E7-8E14-4299-81DE-3BEFA82A9CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{309238E7-8E14-4299-81DE-3BEFA82A9CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{309238E7-8E14-4299-81DE-3BEFA82A9CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,5 +143,6 @@ Global
 		{77A4599F-FAF3-4FA0-9A8B-4AB8B17B8DDC} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{A302C85A-0A69-472D-8818-D52995D18CB4} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{309238E7-8E14-4299-81DE-3BEFA82A9CAD} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
+		{E0905BB6-7996-4A59-B6B1-E65269CE1EBA} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 	EndGlobalSection
 EndGlobal
