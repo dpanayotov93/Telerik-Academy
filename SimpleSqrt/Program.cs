@@ -6,8 +6,8 @@ namespace SquareRoot
     {
         static void Main()
         {
-            double a = Math.Sqrt(12345);
-            Console.WriteLine(a);
+            double numberToSQRT = Math.Sqrt(12345f); // We use double since the square root of the given number (12345) will result in a fraction.
+            Console.WriteLine(numberToSQRT); // The console writes the result of the mathematical solution for "numberToSQRT".
         }
     }
 }

@@ -6,9 +6,9 @@ namespace SimpleSequence
     {
         static void Main()
         {
-            for (double i = 2; i <= 1000; i++)
+            for (int i = 2; i <= 1000; i++) // Here we are intializing a "for" loop operator in order to start cycling (adding +1 to the value of "i") from the given number (2) to till the condition ("i" being smaller than 1000) is met. 
             {
-                if (i % 2 == 0)
+                if (i % 2 == 0) // If the number is even (it can be diveded by 2).
                 {
                     Console.WriteLine(i);
                 }
