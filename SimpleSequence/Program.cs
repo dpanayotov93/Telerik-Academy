@@ -14,7 +14,7 @@ namespace SimpleSequence
                 }
                 else
                 {
-                    Console.WriteLine(- i); // Otherwise it prints the negative value of "i".
+                    Console.WriteLine(- i); // Otherwise it prints the negative value of "i". 
                 }
             }
         }

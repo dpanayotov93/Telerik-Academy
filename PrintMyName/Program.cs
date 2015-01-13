@@ -6,7 +6,7 @@ namespace PrintMyName
     {
         static void Main()
         {
-            Console.WriteLine("Some McGuy"); // The console writes the string "Some McGuy" (Instead of my real name).
+            Console.WriteLine("Some McGuy"); // The console writes the string "Some McGuy" (Instead of my real name). 
         }
     }
 }

@@ -9,7 +9,7 @@ namespace AgeInTenYears
             int yeari;
             int monthi;
             int dayi;
-            DateTime today = DateTime.Now; // DateTime is used to store a date and DateTime.Now shows the current date.
+            DateTime today = DateTime.Now; // DateTime is used to store a date and DateTime.Now shows the current date. 
 
             Console.WriteLine("Please, enter the day you were born in: ");
             string day = Console.ReadLine();
