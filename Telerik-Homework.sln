@@ -49,7 +49,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. EmployeeData", "Employe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. PrintTheASCIITable", "PrintTheASCIITable\14. PrintTheASCIITable.csproj", "{6C321C11-9BC7-4039-B7E0-287130340CC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{2BBA69BA-75F4-405D-8F81-B569334F453F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. ComparingFloats", "ComparingFloats\13. ComparingFloats.csproj", "{2BBA69BA-75F4-405D-8F81-B569334F453F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullValuesArithmetic", "NullValuesArithmetic\NullValuesArithmetic.csproj", "{AA617D71-4A84-4315-A7CA-79D3A860BDE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +147,10 @@ Global
 		{2BBA69BA-75F4-405D-8F81-B569334F453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBA69BA-75F4-405D-8F81-B569334F453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BBA69BA-75F4-405D-8F81-B569334F453F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA617D71-4A84-4315-A7CA-79D3A860BDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA617D71-4A84-4315-A7CA-79D3A860BDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA617D71-4A84-4315-A7CA-79D3A860BDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA617D71-4A84-4315-A7CA-79D3A860BDE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -172,5 +178,6 @@ Global
 		{5E08C13A-3D20-4004-B35F-1BD341B4F254} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{6C321C11-9BC7-4039-B7E0-287130340CC4} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 		{2BBA69BA-75F4-405D-8F81-B569334F453F} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
+		{AA617D71-4A84-4315-A7CA-79D3A860BDE2} = {95A01EA5-B224-4637-A5B6-8E22FB106FB4}
 	EndGlobalSection
 EndGlobal
